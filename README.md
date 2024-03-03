@@ -32,6 +32,6 @@
    - Tested all functionalities to ensure they work as expected.
 
 6. *GitHub Repository:*
-   - Created a GitHub repository to host your code.
+   - Created a GitHub repository to host code.
    - Pushed code to the repository, including both frontend and backend code.
    - Included a README file with instructions on how to set up and run the project.
